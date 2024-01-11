@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+# 8 Puzzle Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React app that implements the 8 Puzzle game
 
+[![Image Alt Text](https://iili.io/J7yLK12.png)](https://8-puzzle-using-react-js.vercel.app/)
+
+## Features
+
+- Shuffle and solve the 8 Puzzle game interactively in the browser.
+- Check for a win condition and display a congratulatory message.
+  
 ## Available Scripts
 
 In the project directory, you can run:
